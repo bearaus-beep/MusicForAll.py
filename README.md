@@ -1,4 +1,5 @@
 MusicForAll
+
 Stakeholder: Un periodista musical o simplemente un afionado a la musica que necesita conocer a un artista o a diversos artistas que esten en los tops de las plataformas mas ocupadas.
 
 Problema: Actualmente para conocer a un artista nuevo tiene que investigar en varios sitios webs  o fuentes acerca del artista, lo cual es lento por que es mucha informacion repartida en distintos lugares y no siempre nos dara la informacion que requerimos
