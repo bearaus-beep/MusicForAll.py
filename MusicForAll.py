@@ -100,5 +100,4 @@ def buscar_artista(nombre):
     except requests.exceptions.Timeout:
         print("Error: la API tardó demasiado")
 
-nombre = input("Ingresa el nombre del artista o banda: ")
-buscar_artista(nombre)
+buscar_artista("Arctic Monkeys")

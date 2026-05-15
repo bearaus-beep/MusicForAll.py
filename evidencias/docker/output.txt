@@ -1,0 +1,26 @@
+CONTAINER ID        IMAGE               COMMAND                  CREATED             STATUS                      PORTS               NAMES
+b5bc8daa7c2c        musicforall         "python MusicForAll.…"   2 minutes ago       Exited (0) 2 minutes ago                        samplerunning
+9b6b6911fc2c        d746405d0aee        "/bin/sh -c 'pip ins…"   10 minutes ago      Exited (2) 10 minutes ago                       cool_ganguly
+4f28bab887bb        d746405d0aee        "/bin/sh -c 'pip ins…"   12 minutes ago      Exited (2) 12 minutes ago                       vibrant_goodall
+0c10abfb9155        25f548808eb5        "/bin/sh -c 'pip ins…"   13 minutes ago      Exited (1) 13 minutes ago                       tender_lovelace
+
+Artista: Arctic Monkeys
+Oyentes: 7.1M
+Géneros: indie rock, indie, british, alternative, rock
+Biografia: Arctic Monkeys es una banda de rock alternativo formada en Sheffield, South Yorkshire, Inglaterra en 2002 después de conocerse en Stocksbridge High School. La banda está formada por Alex Turner (voz, guitarra, piano), Jamie Cook (guitarra), Nick O'Malley (coros, bajo) y Matt Helders (batería, voz). El bajista fundador Andy Nicholson se fue en 2006.
+
+Son una de las primeras bandas en llamar la atención del público a través de Internet a través de MySpace, a pesar de que ninguno de ellos tiene una cuenta.
+
+Top Canciones:
+1. 505 - 58.4M reproducciones - 3.0M oyentes
+2. Do I Wanna Know? - 45.2M reproducciones - 2.9M oyentes
+3. Why'd You Only Call Me When You're High? - 41.8M reproducciones - 2.7M oyentes
+4. I Wanna Be Yours - 42.6M reproducciones - 2.6M oyentes
+5. Fluorescent Adolescent - 34.5M reproducciones - 2.5M oyentes
+
+Top Albums:
+1. AM - 265.1M reproducciones
+2. Favourite Worst Nightmare - 155.1M reproducciones
+3. Whatever People Say I Am, That's What I'm Not - 140.7M reproducciones
+4. Favourite Worst Nightmare (Standard Version) - 47.1M reproducciones
+5. Humbug - 69.7M reproducciones
